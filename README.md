@@ -1,2 +1,2 @@
 # Courseracourses
-All Courses from coursera
+Py4e courses from coursera
